@@ -1,0 +1,57 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.visibility-btn {
+  background-color: rgb(13, 137, 238);
+  color: white;
+  border: transparent;
+  padding: 5px 10px;
+  font-size: large;
+  border-radius: 8px;
+}
+
+.visibility-btn:focus {
+  outline: 0;
+}
+
+.decrement-btn {
+  background-color: red;
+  border: transparent;
+  padding: 5px 10px;
+  margin-right: 10px;
+  font-size: large;
+  color: white;
+  border-radius: 10%;
+}
+
+.decrement-btn:focus {
+  outline: 0;
+}
+
+.increment-btn {
+  background-color: green;
+  border: transparent;
+  padding: 5px 8px;
+  margin-left: 10px;
+  font-size: large;
+  color: white;
+  border-radius: 10%;
+}
+
+.increment-btn:focus {
+  outline: 0;
+}
+
+.reset-btn {
+  border: 1px solid black;
+  padding: 5px 8px;
+  margin-top: 10px;
+  font-size: large;
+  border-radius: 8%;
+}
+
+.reset-btn:focus {
+  outline: 0;
+}
